@@ -1,0 +1,13 @@
+value=['a','b','c','d','e','f']
+index=value.index('a')
+print("the index of a is:"index)
+index=value.index('b')
+print("the index of b is:"index)
+index=value.index('c')
+print("the index of c is:"index)
+index=value.index('d')
+print("the index of d is:"index)
+index=value.index('e')
+print("the index of e is:"index)
+index=value.index('f')
+print("the index of f is:"index)
